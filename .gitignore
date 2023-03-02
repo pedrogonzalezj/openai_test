@@ -1,0 +1,23 @@
+# Build
+build
+.idea
+out
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Local settings
+.vscode
+node_modules/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Environment variables
+.env
+config.txt
+test.env
